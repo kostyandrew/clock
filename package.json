@@ -1,0 +1,9 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@kostyandrew",
+  "dependencies": {
+    "terminal-kit": "^0.25.3"
+  }
+}
